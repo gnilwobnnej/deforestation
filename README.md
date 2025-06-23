@@ -84,4 +84,3 @@ You must also have ground truth data or use the sample manual annotation provide
 - Automate the ground truth labeling using ML models
 - Add support for more complex/multispectral imagery
 - Export results to interactive web maps using tools like Folium or GeoJSON
-
