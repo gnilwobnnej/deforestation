@@ -36,10 +36,9 @@ You must also have ground truth data or use the sample manual annotation provide
    RED and NIR bands are loaded from satellite images using `rasterio`.
 
 2. **Compute NDVI**  
-   NDVI is calculated using the formula:
-   \[
-   	ext{NDVI} = rac{NIR - RED}{NIR + RED}
-   \]  
+   NDVI is calculated using the formula:NDVI = NIR - RED / NIR + RED
+
+
    This helps identify how healthy the vegetation is.
 
 3. **Compare Before vs. After**  
