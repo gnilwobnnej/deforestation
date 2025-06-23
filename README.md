@@ -79,7 +79,7 @@ You must also have ground truth data or use the sample manual annotation provide
 ---
 
 
-## 🛠 Future Improvements
+## Future Improvements
 
 - Automate the ground truth labeling using ML models
 - Add support for more complex/multispectral imagery
