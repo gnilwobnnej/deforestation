@@ -15,7 +15,7 @@ This project uses satellite imagery to detect deforestation by computing the **N
 - `scikit-learn` - for evaluation (F1 score)
 
 **Information used:**
-- [Copernicus Browser][https://browser.dataspace.copernicus.eu/] - Is where I got the Tiff files from.
+- [Copernicus Browser](https://browser.dataspace.copernicus.eu/) - Is where I got the Tiff files from.
 - The before picture was taken on 05-10-2016 and after was taken from 6-11-2025
 
 ---
